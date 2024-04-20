@@ -1,4 +1,0 @@
-Name: Ali, Surname: Yıldırım, Age: 33, Phone number: 5329876543, Gender: Erkek
-Name: Ayşe, Surname: Yılmaz, Age: 30, Phone number: 5429876543, Gender: Kadın
-Name: Ahmet, Surname: Tekin, Age: 32, Phone number: 5339876543, Gender: Erkek
-Name: Fatma, Surname: Işık, Age: 25, Phone number: 5428765432, Gender: Kadın
